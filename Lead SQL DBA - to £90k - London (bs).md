@@ -12,7 +12,7 @@ You will join a small and highly experienced team of technical engineers to help
 
 Your responsibilities will include:
 
-*  Ensuring availability and performance of over 40 instances of SQL Server that support Betgenius’ systems from development through to production
+*  Ensuring availability and performance of over 40 instances of SQL Server that support company systems from development through to production
 *  Performance tuning and optimisation of complex transactional SQL
 *  Maintaining highly available clustered SQL Servers
 *  Working closely with the .NET and Java development teams and supporting their environments
